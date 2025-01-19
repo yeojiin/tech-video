@@ -1,6 +1,6 @@
 # tech-video
-기술 영상을 보고 토론을 하는 스터디 
-[이슈 저장소](https://github.com/IT-book-study/tech-video/issues) -> 매주 토론 내용 정리\
+기술 영상을 보고 토론을 하는 스터디 <br>
+[이슈 저장소](https://github.com/IT-book-study/tech-video/issues) -> 매주 토론 내용 정리
 
 
 ## 기술 영상 목록 
